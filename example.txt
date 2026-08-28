@@ -1,1 +1,1 @@
-Hi, this is the first time, I am using the git.
+Hi, this is the first time, I am using the git. and now I have cloned the whole project from GIT to local
