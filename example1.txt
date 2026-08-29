@@ -1,1 +1,1 @@
-hi, this is the second example
+hi, this is the second example and I am making changes to learn about the merge conflicts
